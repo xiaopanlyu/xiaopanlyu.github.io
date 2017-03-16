@@ -8,7 +8,7 @@ description: Let it go!
 #   Google search results) and in your feed.xml site description.
 
 url: https://xiaopanlyu.github.io
-baseurl: "https://xiaopanlyu.github.io"
+baseurl: /xiaopanlyu.github.io
 twitter_username: xiaopanlyu
 github_username:  xiaopanlyu
 permalink: /:year/:month/:day/:title/
