@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: XIAOPANLYUBlog 
-description: LET IT  GO!
+name: Xiaopan LYU  Blog 
+description: Let it go!
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: https://xiaopanlyu.github.io
@@ -19,7 +19,7 @@ share:
   email: xiaopanlyu@gmail.com
 
 social:
-  github: streetturtle
+  github: xiaopanlyu
   stackoverflow: ''
   linkedin:
   instagram: ''
