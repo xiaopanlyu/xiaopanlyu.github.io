@@ -7,8 +7,8 @@ description: Let it go!
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "https://xiaopanlyu.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://xiaopanlyu.github.io" # the base hostname & protocol for your site
 # twitter_username: xiaopanlyu
 github_username:  xiaopanlyu
 permalink: /:year/:month/:day/:title/
