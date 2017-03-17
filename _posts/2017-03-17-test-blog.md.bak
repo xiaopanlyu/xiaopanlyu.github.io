@@ -1,10 +1,10 @@
 ---
-title: "2017-03-17-my-first-blog"
-author: "Xiaopan Lyu"
+layout: post
+title: "my-first-blog"
 date: "March 17, 2017"
-output:  
-  md_document:
-    variant: markdown_github
+tags: jekyll
+description: Test comments.
+
 ---
 
 
