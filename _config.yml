@@ -4,8 +4,8 @@ name: Xiaopan LYU  Blog
 description: Let it go!
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: https://xiaopanlyu.github.io
-#url: http://localhost:4000
+#url: https://xiaopanlyu.github.io
+url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
 baseurl: ""
@@ -43,7 +43,7 @@ comments: true
 permalink: /:year/:month/:title
 
 # Enable for using pages, more details are here: http://jekyllrb.com/docs/pagination/
-paginate: 3
+#paginate: 3
 
 highlighter: rouge
 
