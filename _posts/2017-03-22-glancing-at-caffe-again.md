@@ -5,7 +5,7 @@ date: 2017-03-22 20:35
 description: I redefine the Caffe in my mind.
 tags:
  - Caffe
- - Deep Learning
+ - DeepLearning
 ---
 
 ## Glancing at Caffe again
