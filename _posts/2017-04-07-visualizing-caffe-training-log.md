@@ -92,5 +92,5 @@ Here, we can get 8 different charts by the  field index union.
 ![img]({{ site.baseurl | prepend:site.url}}/images/Log-LogReg_solver-1.log_7.png){: .center-image }*(Train loss vs. Seconds)*
 
 ## Reference
--Code:[https://github.com/xiaopanlyu/caffe/tree/master/tools](https://github.com/xiaopanlyu/caffe/tree/master/tools)
+- Code:[https://github.com/xiaopanlyu/caffe/tree/master/tools](https://github.com/xiaopanlyu/caffe/tree/master/tools)
 
